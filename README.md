@@ -7,4 +7,15 @@ We have a plate of 12 × 15 cm and the temperatures on the edges are held as sho
 ## About  
 This uses standard C++ libraries and has hardcoded values that link to the image below.
 
-// Image \\
+![SOR Example](https://github.com/GrahamCHill/SOR_Method/blob/main/SOR_Data.png)
+
+The solution is then as follows:  
+
+ω = 1.21052
+--*--*--*--*--
+Row: 1 | 87.4043 | 58.119 | 30.1316 |
+Row: 2 | 101.498 | 64.9402 | 32.4074 |
+Row: 3 | 103.649 | 67.7359 | 34.558 |
+Row: 4 | 95.3613 | 67.7965 | 38.0886 |
+
+Process finished with exit code 0
