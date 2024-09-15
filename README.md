@@ -11,8 +11,8 @@ This uses standard C++ libraries and has hardcoded values that link to the image
 
 The solution is then as follows:  
 
-ω = 1.21052
---*--*--*--*--
+ω = 1.21052  
+--*--*--*--*--  
 Row: 1 | 87.4043 | 58.119 | 30.1316 |  
 Row: 2 | 101.498 | 64.9402 | 32.4074 |  
 Row: 3 | 103.649 | 67.7359 | 34.558 |  
